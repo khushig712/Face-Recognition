@@ -1,3 +1,5 @@
+# model.py defines the model of the neural network used for facial recognition, the tabular format of all the layers can be found in model.pdf #
+
 import tensorflow as tf
 from keras.layers import Conv2D, ZeroPadding2D, Activation, Input, concatenate
 from keras.layers.core import Lambda, Flatten, Dense
