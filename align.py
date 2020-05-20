@@ -1,4 +1,4 @@
-"""Module for dlib-based alignment."""
+## align the images properly so that the face can be recognised ##
 
 import cv2
 import dlib
