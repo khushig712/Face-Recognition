@@ -4,8 +4,8 @@ The project involves implementation of Face Recognition model for different TV s
 The FaceNet using Convolution Network. The neural network is implemented using python libraries like Keras, TensorFlow and OpenCv.
 
 
-## Directory for images used in the project
-The images can be found on the follwing [link](https://drive.google.com/file/d/1qfBfw3aXgBDSi_3yxAeuQ--F9FSk75Ti/view?usp=sharing)
+## Directory for images and trained model used in the project
+The images and the trained model file can be found on the follwing [link](https://drive.google.com/drive/folders/1azuXz8rhs-KxS1Bqf4E8sPqqPCRuIKJB?usp=sharing)
 
 ## References 
 The references for the completion of this repository are as follows:
