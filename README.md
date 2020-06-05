@@ -9,6 +9,8 @@ The images can be found on the follwing [link](https://drive.google.com/file/d/1
 
 ## References 
 The references for the completion of this repository are as follows:
-1.nyoki-mtl, Hiroki Taniai [keras-facenet (2018)](https://github.com/nyoki-mtl/keras-facenet)
-2.davidsandberg, David Sandberg [facenet (2018)](https://github.com/davidsandberg/facenet)
-3.Shaikh Faizan (2020, May 14).[Inception Network: Implementation In Keras.](https://www.analyticsvidhya.com/blog/2018/10/understanding-inception-network-from-scratch/)
+<ol>
+<li>nyoki-mtl, Hiroki Taniai <a href='https://github.com/nyoki-mtl/keras-facenet'>keras-facenet (2018)</a>
+<li>davidsandberg, David Sandberg <a href='https://github.com/davidsandberg/facenet'>facenet (2018)</a>
+<li>Shaikh Faizan <a href='https://www.analyticsvidhya.com/blog/2018/10/understanding-inception-network-from-scratch/'>Inception Network: Implementation In Keras (Oct 18, 2018)</a>
+</ol>
