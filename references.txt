@@ -1,8 +1,0 @@
-The following github repositories have been used for the completion of project. The codes used have been extracted from these repositories.
-
-1.nyoki-mtl, Hiroki Taniai
-  keras-facenet (2018) 
-  https://github.com/nyoki-mtl/keras-facenet
-2.davidsandberg, David Sandberg
-  facenet (2018)
-  https://github.com/davidsandberg/facenet
