@@ -2,6 +2,7 @@
 
 The project involves implementation of Face Recognition model for different TV stars and film celebrities by FaceNet using Convolution Network. The neural network is implemented using python libraries like Keras, TensorFlow and OpenCv.
 
+
 ## For the images dataset used in the project
 Extract the folders from the rar folder present in images directory: Face_recog images
 
